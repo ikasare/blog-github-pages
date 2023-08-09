@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-# Glad you are here
+# Glad you are here!
 
 ## I figured I wanted to document and publish some interesting experiences in my life
 
